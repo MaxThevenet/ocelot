@@ -9,7 +9,7 @@ Ocelot includes following main modules:
     - optics
     - tracking
     - matching
-    - collective effects (description can be found [here](http://vrws.de/ipac2017/papers/wepab031.pdf) )
+    - collective effects (description can be found [here](http://accelconf.web.cern.ch/ipac2017/papers/wepab031.pdf) )
         - Space Charge (true 3D Laplace solver)
         - CSR (Coherent Synchrotron Radiation) (1D model with arbitrary number of dipoles) (under development).
         - Wakefields (Taylor expansion up to second order for arbitrary geometry).
